@@ -6,13 +6,15 @@
     <Meta name="author">Rowan</Meta> 
   </ConfigMap> 
   <ConfigMap type="Skin"> 
-    <Attribute name="header.background_color">black</Attribute> 
-    <Attribute name="header.logo">beveled_red</Attribute> 
-    <Attribute name="header.link_color">#ffffff</Attribute> 
-    <Attribute name="header.text_color">#ffffff</Attribute>
-    <Attribute name="header.center_image.url">http://wowtheme.googlecode.com/svn/trunk/Images/hordelogo.JPG</Attribute>  
-    <Attribute name="gadget_area.gadget.header.background_color">black</Attribute> 
-    <Attribute name="gadget_area.gadget.header.text_color">red</Attribute> 
-    <Attribute name="gadget_area.tab.unselected.text_color">gray</Attribute> 
+    	<Attribute name="header.background_color">black</Attribute> 
+    	<Attribute name="header.logo">beveled_red</Attribute> 
+    	<Attribute name="header.link_color">#ffffff</Attribute> 
+    	<Attribute name="header.text_color">#ffffff</Attribute>
+    	<Attribute name="header.center_image.url">http://wowtheme.googlecode.com/svn/trunk/Images/hordelogo.JPG</Attribute>  
+    	<Attribute name="gadget_area.gadget.header.background_color">black</Attribute> 
+    	<Attribute name="gadget_area.gadget.header.text_color">red</Attribute> 
+    	<Attribute name="gadget_area.tab.unselected.text_color">gray</Attribute>
+	<Attribute name="footer.background_color">black</Attribute> 
   </ConfigMap> 
 </ConfigMaps>
+
