@@ -15,6 +15,7 @@
     	<Attribute name="gadget_area.gadget.header.background_color">black</Attribute> 
     	<Attribute name="gadget_area.gadget.header.text_color">red</Attribute> 
     	<Attribute name="gadget_area.tab.unselected.text_color">gray</Attribute>
+	<Attribute name="gadget_area.gadget.body.link_color">red</Attribute>
 	<Attribute name="footer.background_color">black</Attribute> 
   </ConfigMap> 
 </ConfigMaps>
