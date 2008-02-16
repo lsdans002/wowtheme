@@ -10,7 +10,7 @@
     <Attribute name="header.logo">Red</Attribute> 
     <Attribute name="header.link_color">#ffffff</Attribute> 
     <Attribute name="header.text_color">#ffffff</Attribute>
-    <Attribute name="header.center_image.url">http://wowtheme.googlecode.com/svn/trunk/Images/Horde-logo-wow-warcraft.jpg</Attribute>  
+    <Attribute name="header.center_image.url">http://wowtheme.googlecode.com/svn/trunk/Images/hordelogo.jpg</Attribute>  
     <Attribute name="gadget_area.gadget.body.link_color">#8B4513</Attribute> 
     <Attribute name="gadget_area.tab.unselected.text_color">gray</Attribute> 
   </ConfigMap> 
