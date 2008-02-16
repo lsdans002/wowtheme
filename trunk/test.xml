@@ -18,7 +18,6 @@
 	<Attribute name="gadget_area.gadget.body.link_color">Blue</Attribute>
 	<Attribute name="footer.background_color">black</Attribute> 
 	<Attribute name="gadget_area.tab.border_color">black</Attribute>
-	<Attribute name="gadget_area.tab.selected.text_color">red</Attribute>  
   </ConfigMap> 
 </ConfigMaps>
 
