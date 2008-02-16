@@ -7,6 +7,7 @@
   </ConfigMap> 
   <ConfigMap type="Skin"> 
     	<Attribute name="header.background_color">black</Attribute> 
+	<Attribute name="header.tile_image.url">http://wowtheme.googlecode.com/svn/trunk/Images/wowBorder.JPG</Attribute>
     	<Attribute name="header.logo">beveled_red</Attribute> 
     	<Attribute name="header.link_color">#ffffff</Attribute> 
     	<Attribute name="header.text_color">#ffffff</Attribute>
