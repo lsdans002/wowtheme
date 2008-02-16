@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<ConfigMaps> 
+  <ConfigMap type="Skin"> 
+    <Meta name="title">Simple Theme</Meta> 
+    <Meta name="description">Simple theme example.</Meta> 
+    <Meta name="author">Rowan</Meta> 
+  </ConfigMap> 
+  <ConfigMap type="Skin"> 
+    	<Attribute name="header.background_color">black</Attribute> 
+	<Attribute name="header.tile_image.url">http://wowtheme.googlecode.com/svn/trunk/Images/wowBorder.JPG</Attribute>
+    	<Attribute name="header.center_image.url">http://wowtheme.googlecode.com/svn/trunk/Images/hordelogo.JPG</Attribute> 
+	<Attribute name="header.logo">beveled_red</Attribute> 
+    	<Attribute name="header.link_color">#ffffff</Attribute> 
+    	<Attribute name="header.text_color">#ffffff</Attribute>
+    	<Attribute name="gadget_area.gadget.header.background_color">black</Attribute> 
+    	<Attribute name="gadget_area.gadget.header.text_color">red</Attribute> 
+    	<Attribute name="gadget_area.tab.unselected.text_color">gray</Attribute>
+	<Attribute name="gadget_area.gadget.body.link_color">blue</Attribute>
+  </ConfigMap> 
+</ConfigMaps>
+
