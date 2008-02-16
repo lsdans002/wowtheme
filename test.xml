@@ -6,7 +6,7 @@
     <Meta name="author">Rowan</Meta> 
   </ConfigMap> 
   <ConfigMap type="Skin"> 
-    <Attribute name="header.background_color">Black</Attribute> 
+    <Attribute name="header.background_color">black</Attribute> 
     <Attribute name="header.logo">Red</Attribute> 
     <Attribute name="header.link_color">#ffffff</Attribute> 
     <Attribute name="header.text_color">#ffffff</Attribute> 
