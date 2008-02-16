@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<ConfigMaps> 
+  <ConfigMap type="Skin"> 
+    <Meta name="title">Simple Theme</Meta> 
+    <Meta name="description">Simple theme example.</Meta> 
+    <Meta name="author">Rowan</Meta> 
+  </ConfigMap> 
+  <ConfigMap type="Skin"> 
+    <Attribute name="header.background_color">teal</Attribute> 
+    <Attribute name="header.logo">white</Attribute> 
+    <Attribute name="header.link_color">#ffffff</Attribute> 
+    <Attribute name="header.text_color">#ffffff</Attribute> 
+    <Attribute name="gadget_area.gadget.body.link_color">#8B4513</Attribute> 
+    <Attribute name="gadget_area.tab.unselected.text_color">gray</Attribute> 
+  </ConfigMap> 
+</ConfigMaps>
