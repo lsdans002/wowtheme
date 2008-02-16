@@ -16,5 +16,3 @@
     <Attribute name="gadget_area.tab.unselected.text_color">gray</Attribute> 
   </ConfigMap> 
 </ConfigMaps>
-
-gadget_area.gadget.header.text_color 
