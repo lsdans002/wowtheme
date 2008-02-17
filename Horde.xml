@@ -10,7 +10,7 @@
 	<Attribute name="header.tile_image.url">http://wowtheme.googlecode.com/svn/trunk/Images/wowBorder.JPG</Attribute>
     	<Attribute name="header.center_image.url">http://wowtheme.googlecode.com/svn/trunk/Images/hordelogo.JPG</Attribute> 
 	<Attribute name="header.logo">beveled_blue</Attribute> 
-    	<Attribute name="header.link_color">blue</Attribute> 
+    	<Attribute name="header.link_color">red</Attribute> 
     	<Attribute name="header.text_color">blue</Attribute>
     	<Attribute name="gadget_area.gadget.header.background_color">black</Attribute> 
     	<Attribute name="gadget_area.gadget.header.text_color">red</Attribute> 
